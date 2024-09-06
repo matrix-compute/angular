@@ -27,7 +27,7 @@
     "@uirouter/cypress-runner": "*"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.1.2",
+    "@angular-devkit/build-angular": "^18.0.0",
     "@angular/cli": "~16.1.2",
     "@angular/compiler-cli": "^16.1.0",
     "@types/jasmine": "~4.3.0",
